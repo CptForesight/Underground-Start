@@ -1,0 +1,12 @@
+[
+  {
+    "type": "scenario",
+    "id": "subwaysurvival",
+    "name": "Subway Survival",
+    "points": 0,
+    "description": "Wandering the rusted rails and aged concrete of abandoned subway tunnels, through need or want, has led you finding yourself in the urban depths, alone. For how long?",
+    "allowed_locs": [ "sloc_subway_sideroom" ],
+    "start_name": "Subway Survival",
+    "flags": [ "CITY_START", "LONE_START" ]
+  }
+]
