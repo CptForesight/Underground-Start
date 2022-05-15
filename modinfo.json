@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Underground_Start",
+    "name": "Underground Start",
+    "authors": [ "Foresight" ],
+    "maintainers": [ "Foresight" ],
+    "description": "Creates a scenario for those wishing to start in the depths of the subway.",
+    "category": "Buildings",
+    "dependencies": [ "dda" ]
+  }
+]
