@@ -1,8 +1,0 @@
-[
-  {
-    "type": "start_location",
-    "id": "sloc_subway_sideroom",
-    "name": "Subway Sideroom",
-    "terrain": [ "subway_sideroom" ]
-  }
-]

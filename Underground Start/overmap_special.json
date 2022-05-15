@@ -1,7 +1,0 @@
-   {
-        "type": "overmap_special",
-        "id": "subway_sideroom",
-        "overmaps": [ { "point": [ 0, 0, -2 ], "overmap": "subway_sideroom_east" }, { "point": [ 0, -1, -2 ], "overmap": "microlab_sub_connector_east" }, { "point": [ 0, 0, -1 ], "overmap": "subway_sideroom_roof_east" }  ],
-        "locations": [ "land" ],
-        "occurrences": [ 10, 10 ]
-    }
